@@ -1,0 +1,9 @@
+# NAME: Trae-Telemetry
+# AUTHOR: MorningStar
+# REPO: https://github.com/MorningStar0709/proxy-rules
+# UPDATED: 2026-07-06
+# DOMAIN: 2
+# TOTAL: 2
+payload:
+  - DOMAIN,mon-va.byteoversea.com
+  - DOMAIN,log-va.byteoversea.com

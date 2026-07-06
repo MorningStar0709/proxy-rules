@@ -1,0 +1,11 @@
+# NAME: Qoder-CLI
+# AUTHOR: MorningStar
+# REPO: https://github.com/MorningStar0709/proxy-rules
+# UPDATED: 2026-07-06
+# DOMAIN: 2
+# DOMAIN-SUFFIX: 1
+# TOTAL: 3
+payload:
+  - DOMAIN,api3.qoder.sh
+  - DOMAIN,api4.qoder.sh
+  - DOMAIN-SUFFIX,qoder.sh

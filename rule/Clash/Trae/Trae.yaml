@@ -1,0 +1,14 @@
+# NAME: Trae
+# AUTHOR: MorningStar
+# REPO: https://github.com/MorningStar0709/proxy-rules
+# UPDATED: 2026-07-06
+# DOMAIN: 3
+# DOMAIN-SUFFIX: 3
+# TOTAL: 6
+payload:
+  - DOMAIN,trae-api-us.mchost.guru
+  - DOMAIN,trae-api-sg.mchost.guru
+  - DOMAIN,i-va.byteoversea.com
+  - DOMAIN-SUFFIX,trae.ai
+  - DOMAIN-SUFFIX,byteintapi.com
+  - DOMAIN-SUFFIX,zijieapi.com
