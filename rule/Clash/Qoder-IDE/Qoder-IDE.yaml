@@ -3,8 +3,8 @@
 # REPO: https://github.com/MorningStar0709/proxy-rules
 # UPDATED: 2026-07-06
 # DOMAIN: 4
-# DOMAIN-SUFFIX: 2
-# TOTAL: 6
+# DOMAIN-SUFFIX: 7
+# TOTAL: 11
 payload:
   - DOMAIN,account.qoder.ai
   - DOMAIN,api.qoder.ai
@@ -12,3 +12,8 @@ payload:
   - DOMAIN,workspace.qoder.ai
   - DOMAIN-SUFFIX,qoder.ai
   - DOMAIN-SUFFIX,qoder.com
+  - DOMAIN-SUFFIX,alicdn.com
+  - DOMAIN-SUFFIX,aliyuncs.com
+  - DOMAIN-SUFFIX,aliyun.com
+  - DOMAIN-SUFFIX,mintcdn.com
+  - DOMAIN-SUFFIX,vsassets.io
